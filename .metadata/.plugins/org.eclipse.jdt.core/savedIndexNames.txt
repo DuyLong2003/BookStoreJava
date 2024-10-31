@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Admin\Desktop\File\Java\Project\BookStoreJava\.metadata\.plugins\org.eclipse.jdt.core
